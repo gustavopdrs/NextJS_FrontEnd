@@ -1,0 +1,26 @@
+{
+  "name": "nextjstrab",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.0.1",
+    "clsx": "^1.2.1",
+    "emotion": "^11.0.0",
+    "mui": "^0.0.1",
+    "next": "^13.0.2",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.6.0",
+    "react-chartjs-2": "^5.0.1",
+    "react-dom": "18.2.0",
+    "reactstrap": "^9.1.5"
+  },
+  "devDependencies": {
+    "faker": "^5.5.3"
+  }
+}
